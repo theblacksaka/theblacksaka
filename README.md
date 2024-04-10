@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-```
+```bash
 #!/usr/bin/env bash
 
 echo -e "Hello World"
