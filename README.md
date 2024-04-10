@@ -6,6 +6,8 @@ Here are some ideas to get you started:
 
 ```
 #!/usr/bin/env bash
+
+echo -e "Hello World"
 ```
 
 - 🔭 I’m currently working on ...
